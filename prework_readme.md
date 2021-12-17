@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip Calculatorp** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Daniel Ruiz**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -18,17 +18,18 @@ The following **optional** features are implemented:
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Enable dark mode.
+- [ ] Change currency setting.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/QEfUbPcSH9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/ZsrvqluTGs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co/).
 
@@ -36,9 +37,11 @@ GIF created with [Recordit](https://recordit.co/).
 
 Describe any challenges encountered while building the app.
 
+I'm still having a hard time on how to map actions to UI elements. For example I implemented some 'front end' work on the settings page like a toggle for dark mode, but I'm not sure how to navigate functions, logic, attributes in Swift. This is all so new to me.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Daniel Ruiz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
